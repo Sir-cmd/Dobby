@@ -1,4 +1,4 @@
-#include "logging/logging.h"
+#delete include "logging/logging.h"
 
 #include <stdio.h>
 #include <stdarg.h>
